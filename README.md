@@ -26,5 +26,7 @@
 </ul>
 <h1>Landing  Page</h1>
 <img src='/src/resource/ss.png'>
-<h1>Dashboard  Page</h1>
-<img src='/src/resource/dashboard.png'>
+<h1>Admin Dashboard  Page</h1>
+<img src='/src/resource/admin_dashbord.png'>
+<h1>Yser Dashboard  Page</h1>
+<img src='/src/resource/use_dash.png'>
