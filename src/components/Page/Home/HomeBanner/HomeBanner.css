@@ -2,7 +2,7 @@
 
 .title1 {
     font-family: 'Montserrat';
-    color: rgb(8, 185, 255);
+    color: rgb(255, 69, 0);
     letter-spacing: -3px;
     /* font-size: 65px; */
     font-size: calc(1rem + 3vw) !important;
@@ -43,20 +43,20 @@
 }
 
 .startHere {
-    border: 5px solid rgb(8, 185, 255);
+    border: 5px solid rgb(255, 69, 0);
     font-family: 'Poppins', sans-serif;
     background-color: unset;
     font-size: 18px;
     width: 200px;
     padding: 10px;
     border-radius: 50px;
-    color: rgb(8, 185, 255);
+    color: rgb(255, 69, 0);
     font-weight: 600;
 }
 
 .startHere:hover {
-    border: 5px solid rgb(8, 185, 255);
-    background-color: rgb(8, 185, 255);
+    border: 5px solid rgb(255, 69, 0);
+    background-color: rgb(255, 69, 0);
     color: whitesmoke;
     font-weight: 700;
     text-decoration: none;

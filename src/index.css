@@ -17,7 +17,7 @@ nav a {
 }
 
 nav a.active {
-  color: rgb(8, 185, 255) !important;
+  color: rgb(255, 69, 0) !important;
   font-weight: bold;
   text-decoration: none;
 
@@ -25,5 +25,5 @@ nav a.active {
 
 nav a:hover {
   text-decoration: none;
-  color: rgb(8, 185, 255) !important;
+  color: rgb(255, 69, 0) !important;
 }

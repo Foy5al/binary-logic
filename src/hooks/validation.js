@@ -58,7 +58,7 @@ const passwordValidation = (event) => {
     if (event.target.value === '') {
         passwordValidIcon.classList.remove('text-danger');
         passwordValidIcon.classList.remove('text-success');
-    } else if (/.{8,}/.test(event.target.value)) {
+    } else if (/.{6,}/.test(event.target.value)) {
         passwordValidIcon.classList.remove('text-danger');
         passwordValidIcon.classList.add('text-success');
     } else {

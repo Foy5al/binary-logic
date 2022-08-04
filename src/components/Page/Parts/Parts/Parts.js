@@ -26,7 +26,7 @@ const Parts = () => {
     let length = parts.length;
     const location = window.location.href.substring(window.location.href.lastIndexOf('/') + 1);
     if (!location || location === 'home') {
-        length = 3;
+        length = 6;
     }
 
     const handleSeeMore = (event) => {
@@ -38,7 +38,7 @@ const Parts = () => {
         <article className='py-5 bg-semiBlack '>
             <div className='container'>
                 {
-                    length === 3 ?
+                    length === 6 ?
                         <>
                             <div className=''>
                                 <h2 className='titleMini text-center'>OUR PRODUCTS</h2>

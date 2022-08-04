@@ -25,7 +25,7 @@
     font-family: 'Poppins', sans-serif;
     font-size: 1.4rem;
     font-weight: 600;
-    color: rgb(8, 185, 255);
+    color: rgb(255, 69, 0);
 }
 
 .cardDetails {
@@ -48,7 +48,7 @@
     font-family: 'Poppins', sans-serif;
     font-size: 16px;
     font-weight: 600;
-    color: rgb(8, 185, 255);
+    color: rgb(255, 69, 0);
 }
 
 .cardRadious:hover {
@@ -67,8 +67,8 @@
 }
 
 .cardRadious:hover .startNow {
-    background-color: rgb(8, 185, 255);
-    border: 2px solid rgb(8, 185, 255);
+    background-color: rgb(255, 69, 0);
+    border: 2px solid rgb(255, 69, 0);
 }
 
 

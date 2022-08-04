@@ -239,8 +239,8 @@ const Join = () => {
 
                                     <div className="form__field justify-content-center mt-3 mb-4">
                                         <button onClick={handleGoogleSignIn} className='btnn'><img className='img-fluid imgWidth' src={googleLogo} alt='' /></button>
-                                        {/*  <button disabled onClick={handleFacebookSignIn} className='btnn'><img className='img-fluid imgWidth' src={facebookLogo} alt='' /></button>
-                                        <button disabled onClick={handleGithubSignIn} className='btnn'><img className='img-fluid imgWidth' src={gitLogo} alt='' /></button> */}
+                                        {/*  <button disabled onClick={handleFacebookSignIn} className='btnn'><img className='img-fluid imgWidth' src={facebookLogo} alt='' /></button>*/}
+                                        <button onClick={handleGithubSignIn} className='btnn'><img className='img-fluid imgWidth' src={gitLogo} alt='' /></button> 
                                     </div>
 
                                 </div>

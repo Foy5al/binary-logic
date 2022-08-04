@@ -17,7 +17,8 @@
 
 .signOut:hover {
     text-decoration: none;
-    color: rgb(73, 195, 243) !important;
+    color: red !important;
+    border-bottom: 1px solid red;
 }
 
 .profileDP {

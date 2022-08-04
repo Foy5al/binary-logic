@@ -171,7 +171,7 @@ input[type=submit] {
 
 
 .login input[type=submit] {
-    background-color: rgb(8, 185, 255);
+    background-color: rgb(255, 69, 0);
     color: #eee;
     font-weight: 700;
     text-transform: uppercase
@@ -179,7 +179,7 @@ input[type=submit] {
 
 .login input[type=submit]:focus,
 .login input[type=submit]:hover {
-    background-color: rgb(8, 185, 255)
+    background-color: rgb(255, 69, 0)
 }
 
 /* Chrome, Safari, Edge, Opera */
@@ -208,19 +208,19 @@ p {
 .flipCover {
     width: 100%;
     height: auto;
-    background-color: rgb(8, 185, 255);
+    background-color: rgb(255, 69, 0);
     margin: 0;
 }
 
 .backCover {
-    background-color: rgb(8, 185, 255);
+    background-color: rgb(255, 69, 0);
 }
 
 
 .box {
-    border: 3px solid rgb(8, 185, 255);
+    border: 3px solid rgb(255, 69, 0);
     border-radius: 10px;
-    box-shadow: 5px 5px 15px 0px rgb(8, 185, 255)
+    box-shadow: 5px 5px 15px 0px rgb(255, 69, 0)
 }
 
 .w3-animate-left {
@@ -291,7 +291,7 @@ hr {
 }
 
 .backgound {
-    background-color: rgb(8, 185, 255);
+    background-color: rgb(255, 69, 0);
 }
 
 .fa-solid {
@@ -301,7 +301,7 @@ hr {
 .btn-cover {
     border-radius: 20px;
     border: 2.5px solid #ffffff;
-    background-color: rgb(8, 185, 255);
+    background-color: rgb(255, 69, 0);
     color: #FFFFFF;
     font-size: 14px;
     font-weight: normal;
@@ -358,7 +358,7 @@ hr {
 
 .reset {
     --bs-text-opacity: 1;
-    color: rgb(8, 185, 255);
+    color: rgb(255, 69, 0);
     font-size: 1rem !important;
     font-weight: bold;
     border: unset;

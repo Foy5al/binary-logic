@@ -1,15 +1,15 @@
 .owner {
     text-decoration: none;
-    color: rgb(8, 185, 255);
+    color: rgb(255, 69, 0);
 }
 
 .owner:hover {
     text-decoration: none;
-    color: rgb(8, 185, 255);
+    color: rgb(255, 69, 0);
     font-size: 18px;
 }
 
 .Links:hover {
     text-decoration: none;
-    color: rgb(8, 185, 255) !important;
+    color: rgb(255, 69, 0) !important;
 }
